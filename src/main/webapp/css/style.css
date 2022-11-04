@@ -1,0 +1,13 @@
+
+    body {
+        background-image: url(https://2.bp.blogspot.com/-mNmwKeTuZZg/XR76sYkpbpI/AAAAAAAAELA/5DTQjesqBqMdMIlYwe1uOYTmdLUoBRpvACKgBGAs/w0/spaceship-minimalist-sci-fi-digital-art-uhdpaper.com-4K-138.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    #pond {
+        display: flex;
+        justify-content: space-between;
+    }
