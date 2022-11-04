@@ -2,7 +2,7 @@
 
 Proyecto Grupal
 Integrantes: Christian Muñoz - Jaime Cornejo - Miguel Zúñiga
-Ruta repositorio: https://github.com/psytripp/empresaPrevencion
+Ruta repositorio:https://github.com/seath1/EmpresaprevencionSprint
 
 
 Esta APP WEB nace en base al requerimiento de un un grupo de profesionales dueños de una empresa 
